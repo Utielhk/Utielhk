@@ -8,6 +8,7 @@ My name is Uriel Gonzalez; I am a student at the University of Guadalajara.
 - Be a good software developer
 - learn a lot about telecommunications 📶
 - Create my own indie games 🎮
+- Have a stable socioeconomic life :chart_with_upwards_trend:
 <img width="333" height="250" alt="4tsika" src="https://github.com/user-attachments/assets/1a422609-53bf-4e99-adaa-73f979ac6d2b" />
 
 # Yea... sorry that’s why I’m studying to increase my skills and knowledge.
