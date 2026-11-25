@@ -12,4 +12,4 @@ My name is Uriel Gonzalez; I am a student at the University of Guadalajara.
 
 # Yea... sorry that’s why I’m studying to increase my skills and knowledge.
 ### Contact me if you have any questions.
-- cesar.gonzalez4903@alumnos.udg.mx (educational)
+- cesar.gonzalez4903@alumnos.udg.mx 
